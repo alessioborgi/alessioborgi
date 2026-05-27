@@ -31,7 +31,7 @@
 ## 👨🏻‍💻 About
 
 **Education**
-- 🎓 PhD in Graph Neural Networks & Generative AI
+- 🎓 PhD in Graph Neural Networks, Geometric Deep Learning, Topological Deep Learning and Diffusion Models
 - 🤖 Master of Engineering in Artificial Intelligence & Robotics
 - 💻 Bachelor of Engineering in Applied Computer Science & AI
 
